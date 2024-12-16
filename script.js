@@ -7,7 +7,7 @@ $(document).ready(function () {
         { name: "Гра '21'", url: "https://irinapagul.github.io/Game21-lr9/" ,
         image:"./pictures/lr9.jpg", hoverImage: "./pictures/lr9-hover.png"},
         { name: "Гра 'Однорукий бандит'", url: "https://irinapagul.github.io/OneHandedBandit-lr10/",
-        image:"./pictures/lr10.jpg", hoverImage: "./pictures/lr10-hover.png"},
+        image:"./pictures/Lr10.png", hoverImage: "./pictures/lr10-hover.png"},
         { name: "Гра 'Вивчаємо слова'", url: "https://irinapagul.github.io/LearningWords-lr11/",
         image:"./pictures/Lr11.jpg", hoverImage: "./pictures/Lr11-hover.png"},
         { name: "Гра 'Вивчаємо слова(складний)'", url: "https://irinapagul.github.io/LearningWordsAdvanced-lr12/",
